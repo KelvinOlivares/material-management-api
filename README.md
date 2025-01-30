@@ -36,4 +36,4 @@ Retorno da api:
 }
 
 
-PI em PHP para gerenciar informações sobre materiais, incluindo detalhes como categoria, fornecedor, estoque disponível e movimentações. Permite realizar consultas detalhadas dos materiais, suas movimentações (entradas e saídas) e dados relacionados, retornando as informações em formato JSON. Ideal para sistemas de gestão de inventário e controle de estoque.
+API em PHP para gerenciar informações sobre materiais, incluindo detalhes como categoria, fornecedor, estoque disponível e movimentações. Permite realizar consultas detalhadas dos materiais, suas movimentações (entradas e saídas) e dados relacionados, retornando as informações em formato JSON. Ideal para sistemas de gestão de inventário e controle de estoque.
